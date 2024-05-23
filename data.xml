@@ -76,7 +76,7 @@
    <!--Detailed traffic-->
    <plesk-unified:detailed-traffic core:type="boolean">true</plesk-unified:detailed-traffic>
    <!--Notification manager-->
-   <plesk-unified:notification-manager core:type="boolean">true</plesk-unified:notification-manager>
+   <plesk-unified:notification-manager core:type="boolean">false</plesk-unified:notification-manager>
    <!--Action log manager-->
    <plesk-unified:action-manager core:type="boolean">true</plesk-unified:action-manager>
    <!--Clients and Domains Expirations management-->
